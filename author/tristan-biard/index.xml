@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tristan Biard | ESOP</title>
+    <link>http://protist.online/author/tristan-biard/</link>
+      <atom:link href="http://protist.online/author/tristan-biard/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tristan Biard</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>http://protist.online/author/tristan-biard/avatar_hu920d7dd94c7f066b4cd99092195cc6dc_34678_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Tristan Biard</title>
+      <link>http://protist.online/author/tristan-biard/</link>
+    </image>
+    
+  </channel>
+</rss>

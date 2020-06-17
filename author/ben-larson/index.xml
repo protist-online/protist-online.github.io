@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ben Larson | ESOP</title>
+    <link>http://protist.online/author/ben-larson/</link>
+      <atom:link href="http://protist.online/author/ben-larson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ben Larson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>http://protist.online/author/ben-larson/avatar_hucd232cc3c72ad81b67a2ee1e3c2c3ad5_307500_270x270_fill_q90_lanczos_center.jpeg</url>
+      <title>Ben Larson</title>
+      <link>http://protist.online/author/ben-larson/</link>
+    </image>
+    
+  </channel>
+</rss>

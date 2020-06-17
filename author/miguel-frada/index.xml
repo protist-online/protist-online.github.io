@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miguel Frada | ESOP</title>
+    <link>http://protist.online/author/miguel-frada/</link>
+      <atom:link href="http://protist.online/author/miguel-frada/index.xml" rel="self" type="application/rss+xml" />
+    <description>Miguel Frada</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>http://protist.online/author/miguel-frada/avatar_hu673f6eef16bf70f50855af4ad0731e2f_17481_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Miguel Frada</title>
+      <link>http://protist.online/author/miguel-frada/</link>
+    </image>
+    
+  </channel>
+</rss>

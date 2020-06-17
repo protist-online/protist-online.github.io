@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patrick Keeling | ESOP</title>
+    <link>http://protist.online/author/patrick-keeling/</link>
+      <atom:link href="http://protist.online/author/patrick-keeling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Patrick Keeling</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>http://protist.online/author/patrick-keeling/avatar_hu675b2d3182829b568ac25ff576f33f8f_266485_270x270_fill_q90_lanczos_center.jpeg</url>
+      <title>Patrick Keeling</title>
+      <link>http://protist.online/author/patrick-keeling/</link>
+    </image>
+    
+  </channel>
+</rss>

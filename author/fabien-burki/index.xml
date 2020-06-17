@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fabien Burki | ESOP</title>
+    <link>http://protist.online/author/fabien-burki/</link>
+      <atom:link href="http://protist.online/author/fabien-burki/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fabien Burki</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>http://protist.online/author/fabien-burki/avatar_hubc20198db61b7aa3212040ccc6f74dde_14771_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Fabien Burki</title>
+      <link>http://protist.online/author/fabien-burki/</link>
+    </image>
+    
+  </channel>
+</rss>

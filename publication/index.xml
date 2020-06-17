@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | ESOP</title>
+    <link>http://protist.online/publication/</link>
+      <atom:link href="http://protist.online/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>http://protist.online/images/logo_hu7dd777bcb87329827d80b28ac3a35910_2007278_300x300_fit_lanczos_2.png</url>
+      <title>Publications</title>
+      <link>http://protist.online/publication/</link>
+    </image>
+    
+  </channel>
+</rss>

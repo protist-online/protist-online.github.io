@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark van der Giezen | ESOP</title>
+    <link>http://protist.online/author/mark-van-der-giezen/</link>
+      <atom:link href="http://protist.online/author/mark-van-der-giezen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mark van der Giezen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>http://protist.online/author/mark-van-der-giezen/avatar_hu14ff2e8a808c61097b44892a07601ee7_52627_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Mark van der Giezen</title>
+      <link>http://protist.online/author/mark-van-der-giezen/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Karl Safi | ESOP</title>
+    <link>http://protist.online/author/karl-safi/</link>
+      <atom:link href="http://protist.online/author/karl-safi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Karl Safi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>http://protist.online/author/karl-safi/avatar_hu0cf757ebe97f1bb96e7f83610ffa4cf4_5157859_270x270_fill_lanczos_center_2.png</url>
+      <title>Karl Safi</title>
+      <link>http://protist.online/author/karl-safi/</link>
+    </image>
+    
+  </channel>
+</rss>
